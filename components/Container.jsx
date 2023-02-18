@@ -1,6 +1,6 @@
-import React from "react";
+import React from "react"
 import Start from './Start'
-import Quiz from "./Quiz";
+import Quiz from "./Quiz"
 
 export default function Container(){
     return(

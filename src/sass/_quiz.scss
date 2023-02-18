@@ -1,0 +1,11 @@
+.start.quiz{
+    width: 60rem;
+    height: 65rem;
+    position: relative;
+    & .start__blobA{ //repositon ipper blob for quiz page
+        position: absolute;
+        top:0;
+        right: 2.8rem;
+        
+    }
+}
