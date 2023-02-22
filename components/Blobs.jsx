@@ -29,7 +29,7 @@ function BlobB ( {width , height}){
     } 
     return (
         <div className="start__blobB" style={dimension}>
-            <img src={BlobBURL} class="start__blobB-img" alt="Blob2" />
+            <img src={BlobBURL} className="start__blobB-img" alt="Blob2" />
         </div>
     )    
 }
